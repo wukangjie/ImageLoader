@@ -1,9 +1,5 @@
 package com.wukangjie.imageloader;
 
-/**
- * Created by JohnsonFan on 2017/6/9.
- */
-
 public interface ILoaderStrategy {
 
     /**

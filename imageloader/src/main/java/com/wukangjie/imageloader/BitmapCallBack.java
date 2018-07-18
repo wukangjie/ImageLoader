@@ -2,9 +2,6 @@ package com.wukangjie.imageloader;
 
 import android.graphics.Bitmap;
 
-/**
- * Created by JohnsonFan on 2018/3/7.
- */
 
 public interface BitmapCallBack {
 
